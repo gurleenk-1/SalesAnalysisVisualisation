@@ -65,6 +65,7 @@
 
 <h2>Dashboards</h2>
 <ul>
+  
   <li><strong>Sales Overview</strong> – KPIs, Sales vs Budget trend, Top 10 Customers/Products, Map</li>
   <li><strong>Customer Details</strong> – Customer-level performance with time filtering</li>
   <li><strong>Product Details</strong> – Product/category-level breakdown</li>
@@ -73,10 +74,23 @@
 
 <h3>Screenshots</h3>
 <ul>
-  <li><a href="assets/dashboard_sales_overview.png">Sales Overview</a></li>
-  <li><a href="assets/dashboard_customer_details.png">Customer Details</a></li>
-  <li><a href="assets/dashboard_product_details.png">Product Details</a></li>
-  <li><a href="assets/data_model.png">Data Model</a></li>
+  <p align="center">
+  <img src="Images/data model.png" alt="Fig 1: Data Model" width="500"/><br>
+  <em>Figure 1: Data Model</em>
+  </p>
+  <p align="center">
+  <img src="Images/sales overview.png" alt="Fig 2: Sales Overview" width="500"/><br>
+  <em>Figure 2: Sales Overview</em>
+  </p>
+  <p align="center">
+  <img src="Images/customer details.png" alt="Fig 3: Customer Details" width="500"/><br>
+  <em>Figure 3: Customer Details</em>
+  </p>
+  <p align="center">
+  <img src="Images/product details.png" alt="Fig 4: Product Details" width="500"/><br>
+  <em>Figure 4: Product Details</em>
+  </p>
+  
 </ul>
 
 <h2>What I’d Improve Next</h2>
