@@ -70,7 +70,6 @@
   <li><strong>Customer Details</strong> – Customer-level performance with time filtering</li>
   <li><strong>Product Details</strong> – Product/category-level breakdown</li>
 </ul>
-<p><em>Tip:</em> Add screenshots in <code>/assets</code> and link them below.</p>
 
 <h3>Screenshots</h3>
 <ul>
